@@ -17,7 +17,7 @@ The website can be accessed using the S3 website endpoint.
 - Amazon S3 (Static Website Hosting)
 
 ## Live Website
-http://http://harshavardhan-static-website-011.s3-website-us-east-1.amazonaws.com/
+http://harshavardhan-static-website-011.s3-website-us-east-1.amazonaws.com/
 
 ## Steps Implemented
 1. Created an S3 bucket
